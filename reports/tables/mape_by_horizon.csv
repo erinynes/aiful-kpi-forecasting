@@ -1,0 +1,16 @@
+target,model,1,2,3,4,5,6
+applications,ets,6.23,9.86,11.61,12.73,12.79,13.57
+applications,lgbm,8.91,13.45,17.06,18.32,16.13,16.33
+applications,sarima,6.61,9.55,11.47,12.55,12.49,13.81
+applications,sarimax,7.38,10.16,11.91,12.51,12.73,13.42
+applications,snaive,21.22,20.73,20.18,19.69,19.09,18.36
+new_accounts,ets,6.37,9.57,11.59,12.78,13.33,13.96
+new_accounts,lgbm,8.07,13.27,14.4,16.81,17.36,16.67
+new_accounts,sarima,6.52,9.4,11.27,12.29,12.77,13.67
+new_accounts,sarimax,7.14,9.84,11.36,12.31,12.21,12.52
+new_accounts,snaive,17.87,18.07,18.02,17.84,17.75,17.39
+unsecured_loans_mil,ets,0.32,0.49,0.64,0.84,0.97,1.16
+unsecured_loans_mil,lgbm,0.31,0.55,0.79,1.06,1.31,1.59
+unsecured_loans_mil,sarima,0.27,0.44,0.59,0.73,0.89,1.08
+unsecured_loans_mil,sarimax,0.29,0.46,0.62,0.73,0.88,1.07
+unsecured_loans_mil,snaive,8.13,8.18,8.22,8.27,8.3,8.33

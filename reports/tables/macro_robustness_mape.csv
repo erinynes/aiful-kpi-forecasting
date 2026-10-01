@@ -1,0 +1,7 @@
+,applications,new_accounts,unsecured_loans_mil
+sarima (no macro),11.08,10.98,0.67
+"baseline_set (d_unemp, CCI, core CPI)",11.35,10.89,0.67
+consumer_confidence only,10.84,10.57,0.68
+unemployment change only,11.72,11.59,0.66
+CCI income + employment sub-indices,10.85,10.77,0.66
+call rate + core CPI,13.44,13.12,0.68

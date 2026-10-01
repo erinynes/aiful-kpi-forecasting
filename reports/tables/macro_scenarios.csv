@@ -1,0 +1,10 @@
+target,scenario,value_12m,vs_base_pct
+applications,base (macro held flat),1051241.42,0.0
+applications,"downside: unemp +0.7pp, CCI -6, core CPI +1pp",1131852.51,7.67
+applications,"upside: unemp -0.3pp, CCI +3",1025217.06,-2.48
+new_accounts,base (macro held flat),286350.54,0.0
+new_accounts,"downside: unemp +0.7pp, CCI -6, core CPI +1pp",319088.1,11.43
+new_accounts,"upside: unemp -0.3pp, CCI +3",275665.57,-3.73
+unsecured_loans_mil,base (macro held flat),705635.76,0.0
+unsecured_loans_mil,"downside: unemp +0.7pp, CCI -6, core CPI +1pp",706798.07,0.16
+unsecured_loans_mil,"upside: unemp -0.3pp, CCI +3",705142.01,-0.07

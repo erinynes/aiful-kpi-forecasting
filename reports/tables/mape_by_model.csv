@@ -1,0 +1,4 @@
+target,ets,lgbm,sarima,sarimax,snaive
+applications,11.13,15.03,11.08,11.35,19.88
+new_accounts,11.27,14.43,10.98,10.89,17.82
+unsecured_loans_mil,0.74,0.93,0.67,0.67,8.24
